@@ -41,27 +41,26 @@ Je conçois des applications web performantes et élégantes, avec un fort accen
 
 ---
 
-
 ###  📋 Skills
  ✅ MongoDB Indexing
 
 ---
 
 ### 🧩 Projets phares
-- 🧾 [**Modusta**](https://github.com/nicolasrano/modusta) – Générateur de CV intelligent avec design personnalisable  
-- 🏡 [**Orfevrus API**](https://github.com/nicolasrano/orfevrus-api) – Backend .NET Core pour la gestion de copropriété  
-<!-- - 🐝 [**HiveConnect**](https://github.com/nicolasrano/hiveconnect) – Ruche connectée avec Raspberry Pi et IoT -->
+- 🧾 [**Modusta**](https://github.com/xconix/modusta) – Générateur de CV intelligent avec design personnalisable  
+- 🏡 [**Orfevrus API**](https://github.com/xconix/orfevrus-api) – Backend .NET Core pour la gestion de copropriété  
+- 🐝 [**HiveConnect**](https://github.com/xconix/hiveconnect) – Ruche connectée avec Raspberry Pi et IoT
 
 ---
 
-<!-- ### 📊 Statistiques GitHub
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=nicolasrano&show_icons=true&theme=tokyonight)
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasrano&layout=compact&theme=tokyonight)
+ ### 📊 Statistiques GitHub
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=guajava-sasu&show_icons=true&theme=tokyonight)
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=guajava-sasu&layout=compact&theme=tokyonight)
 
 ---
- -->
+
 
 ### 🌐 Retrouvez-moi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolas%20RANO-blue?logo=linkedin)](https://www.linkedin.com/in/nicolas-rano-8a319038)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Modusta.com-orange?logo=firefox)](https://modusta.com)
-[![Mail](https://img.shields.io/badge/Email-contact@nicolasrano.dev-red?logo=gmail)](mailto:contact@nicolasrano.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-https://guajava.site-orange?logo=mongodb)](https://modusta.com)
+[![Mail](https://img.shields.io/badge/Email-guajavasas@gmail.com-green?logo=gmail)](mailto:guajavasas@gmail.com)

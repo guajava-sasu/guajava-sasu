@@ -24,7 +24,7 @@ Je conçois des applications web performantes et élégantes, avec un fort accen
 ---
 
 ### 🚀 Stack principale
-💻 **Langages :** C#, TypeScript, JavaScript, SQL, Java, Python  
+💻 **Langages :** C#, TypeScript, SQL, Java, Python  
 ⚙️ **Frameworks :** .NET Core, React, Vue 3, Node.js  
 🗄️ **Base de données :** MongoDB, SQL Server, Oracle  
 ☁️ **Cloud & DevOps :** Azure, Docker,  CI/CD  

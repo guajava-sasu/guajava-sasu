@@ -1,24 +1,8 @@
-## Hi there 👋
-
-<!--
-**guajava-sasu/guajava-sasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 👋 Bonjour, je suis Nicolas RANO
 
 ### 🧑‍💻 Ingénieur d’études & Développeur Fullstack .NET | React | Vue
 
-Passionné par l’architecture logicielle, la conception propre et l’innovation.  
+Architecte logiciel, et Dévelopeur Fullstack habitué au code propre et l’innovation.  
 Je conçois des applications web performantes et élégantes, avec un fort accent sur la qualité du code et l’expérience utilisateur.
 
 ---
@@ -34,17 +18,18 @@ Je conçois des applications web performantes et élégantes, avec un fort accen
 ---
 
 ### 🏅 Certifications
- 🌿 MongoDB Associate Database Administrator   
- 🌿 MongoDB Certified Associate Data Modeler   
- 🌿 MongoDB Associate Developper  
+ 🌿[MongoDB Associate Database Administrator](https://www.credly.com/badges/5aa679c1-1518-4356-a532-3ae97500b72d/public_url)  
+ 🌿 [MongoDB Certified Associate Data Modeler ](https://www.credly.com/badges/04e3d15c-479d-4974-83c7-66bd91d0fcc0/public_url)  
+ 🌿 [MongoDB Associate Developper ](https://www.credly.com/badges/b53a75d0-605b-49f5-9b9a-8d654bde4cb6/public_url) 
  🪟 Microsoft 70-480: Programming in HTML5 with JavaScript and CSS3
 
 ---
 
-###  📋 Skills
- ✅ MongoDB Indexing
+<!-- ###  📋 Skills
+✅ [MongoDB Indexing](https://www.credly.com/badges/5aa679c1-1518-4356-a532-3ae97500b72d/public_url)  
+✅ [MongoDB Associate Database Administrator](https://www.credly.com/badges/5aa679c1-1518-4356-a532-3ae97500b72d/public_url)  
 
----
+--- -->
 
 ### 🧩 Projets phares
 - 🧾 [**Modusta**](https://github.com/xconix/modusta) – Générateur de CV intelligent avec design personnalisable  

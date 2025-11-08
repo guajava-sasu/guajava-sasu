@@ -55,7 +55,7 @@ Je conçois des applications web performantes et élégantes, avec un fort accen
 
  ### 📊 Statistiques GitHub
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=guajava-sasu&show_icons=true&theme=tokyonight)
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=guajava-sasu&layout=compact&theme=tokyonight)
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=guajava-sasu&theme=tokyonight)
 
 ---
 

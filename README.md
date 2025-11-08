@@ -62,5 +62,5 @@ Je conçois des applications web performantes et élégantes, avec un fort accen
 
 ### 🌐 Retrouvez-moi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolas%20RANO-blue?logo=linkedin)](https://www.linkedin.com/in/nicolas-rano-8a319038)
-[![Portfolio](https://img.shields.io/badge/Portfolio-https://guajava.site-orange?logo=mongodb)](https://modusta.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-https://guajava.site-orange?logo=javascript)](https://modusta.com)
 [![Mail](https://img.shields.io/badge/Email-guajavasas@gmail.com-green?logo=gmail)](mailto:guajavasas@gmail.com)

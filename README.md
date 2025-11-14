@@ -1,6 +1,6 @@
-## Hi there 👋
-
 <!--
+
+## Hi there 👋
 **guajava-sasu/guajava-sasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Bonjour, je suis Nicolas RANO
 
-### 🧑‍💻 Ingénieur d’études & Développeur Fullstack .NET | React | Vue
+### 🧑‍💻 Ingénieur d’études & Développeur Fullstack .NET | React | Vue Freelance
 
 Passionné par l’architecture logicielle, la conception propre et l’innovation.  
 Je conçois des applications web performantes et élégantes, avec un fort accent sur la qualité du code et l’expérience utilisateur.
@@ -55,7 +55,7 @@ Je conçois des applications web performantes et élégantes, avec un fort accen
 
  ### 📊 Statistiques GitHub
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=guajava-sasu&show_icons=true&theme=tokyonight)
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=guajava-sasu&theme=tokyonight)
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=guajava-sasu&layout=compact&theme=tokyonight)
 
 ---
 

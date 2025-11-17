@@ -1,5 +1,4 @@
 <!--
-
 ## Hi there 👋
 **guajava-sasu/guajava-sasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Bonjour, je suis Nicolas RANO
 
-### 🧑‍💻 Ingénieur d’études & Développeur Fullstack .NET | React | Vue Freelance
+### 🧑‍💻 Ingénieur d’études & Développeur Fullstack Freelance, .NET | React | Vue 
 
 Architecte logiciel, et Dévelopeur Fullstack habitué au code propre et l’innovation.  
 Je conçois des applications web performantes et élégantes, avec un fort accent sur la qualité du code et l’expérience utilisateur.
@@ -30,15 +29,14 @@ Je conçois des applications web performantes et élégantes, avec un fort accen
 ☁️ **Cloud & DevOps :** Azure, Docker,  CI/CD  
 🔐 **Authentication :** Keycloak, EntraID, MongoDB AuthN/AuthZ
 
-
 ---
 
 ### 🏅 Certifications
- 🌿[MongoDB Associate Database Administrator](https://www.credly.com/badges/5aa679c1-1518-4356-a532-3ae97500b72d/public_url)  
- 🌿 [MongoDB Certified Associate Data Modeler ](https://www.credly.com/badges/04e3d15c-479d-4974-83c7-66bd91d0fcc0/public_url)  
- 🌿 [MongoDB Associate Developper ](https://www.credly.com/badges/b53a75d0-605b-49f5-9b9a-8d654bde4cb6/public_url)  
- 🪟 [Microsoft 70-480: Programming in HTML5 with JavaScript and CSS3](https://www.credly.com/badges/90f2c0d5-5796-4734-938a-4f602558a902/public_url)  
-🐍 [PCEP-30-01 Certified Entry-Level Python Programmer ](https://www.credly.com/org/python-institute/badge/pcep-30-01-pcep-certified-entry-level-python-programmer)  
+- 🌿 [MongoDB Associate Database Administrator](https://www.credly.com/badges/5aa679c1-1518-4356-a532-3ae97500b72d/public_url)  
+- 🌿  [MongoDB Certified Associate Data Modeler ](https://www.credly.com/badges/04e3d15c-479d-4974-83c7-66bd91d0fcc0/public_url)  
+- 🌿  [MongoDB Associate Developper ](https://www.credly.com/badges/b53a75d0-605b-49f5-9b9a-8d654bde4cb6/public_url)  
+- 🪟  [Microsoft 70-480: Programming in HTML5 with JavaScript and CSS3](https://www.credly.com/badges/90f2c0d5-5796-4734-938a-4f602558a902/public_url)  
+- 🐍  [PCEP-30-01 Certified Entry-Level Python Programmer ](https://www.credly.com/org/python-institute/badge/pcep-30-01-pcep-certified-entry-level-python-programmer)  
 ---
 
 <!-- ###  📋 Skills
@@ -59,7 +57,6 @@ Je conçois des applications web performantes et élégantes, avec un fort accen
 ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=guajava-sasu&layout=compact&theme=tokyonight)
 
 ---
-
 
 ### 🌐 Retrouvez-moi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolas%20RANO-blue?logo=linkedin)](https://www.linkedin.com/in/nicolas-rano-8a319038)

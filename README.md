@@ -40,6 +40,22 @@ Je conçois des applications web performantes et élégantes, avec un fort accen
 
 ---
 
+### Skills 
+#### MongoDB
+- 🌱 From Relational Model (SQL) to MongoDB's Document Model
+- 🌱 CRUD Operations in MongoDB
+- 🌱 MongoDB Advanced Schema Design Patterns and Anti-patterns Skill
+- 🌱 MongoDB Aggregation Fundamentals
+- 🌱 MongoDB Indexing Design Fundamentals
+- 🌱 MongoDB Overview: Core Concepts and Architecture
+- 🌱 MongoDB Schema Design Optimization Skill Badge
+- 🌱 MongoDB Schema Design Patterns and Anti-patterns Skill Badge
+- 🌱 Monitoring MongoDB with Built-in Tools
+- 🌱 Securing MongoDB Self-Managed: Authentication & Authorization
+- 🌱 Securing MongoDB Self-Managed Networking
+
+---
+
 <!-- ###  📋 Skills
 ✅ [MongoDB Indexing](https://www.credly.com/badges/5aa679c1-1518-4356-a532-3ae97500b72d/public_url)  
 ✅ [MongoDB Associate Database Administrator](https://www.credly.com/badges/5aa679c1-1518-4356-a532-3ae97500b72d/public_url)  

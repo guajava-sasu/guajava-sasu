@@ -42,17 +42,17 @@ Je conçois des applications web performantes et élégantes, avec un fort accen
 
 ### Skills 
 #### MongoDB
-- 🌱 From Relational Model (SQL) to MongoDB's Document Model
-- 🌱 CRUD Operations in MongoDB
-- 🌱 MongoDB Advanced Schema Design Patterns and Anti-patterns Skill
-- 🌱 MongoDB Aggregation Fundamentals
-- 🌱 MongoDB Indexing Design Fundamentals
-- 🌱 MongoDB Overview: Core Concepts and Architecture
-- 🌱 MongoDB Schema Design Optimization Skill Badge
-- 🌱 MongoDB Schema Design Patterns and Anti-patterns Skill Badge
-- 🌱 Monitoring MongoDB with Built-in Tools
-- 🌱 Securing MongoDB Self-Managed: Authentication & Authorization
-- 🌱 Securing MongoDB Self-Managed Networking
+✅  From Relational Model (SQL) to MongoDB's Document Model
+✅  CRUD Operations in MongoDB
+✅  MongoDB Advanced Schema Design Patterns and Anti-patterns Skill
+✅  MongoDB Aggregation Fundamentals
+✅  MongoDB Indexing Design Fundamentals
+✅  MongoDB Overview: Core Concepts and Architecture
+✅  MongoDB Schema Design Optimization Skill Badge
+✅  MongoDB Schema Design Patterns and Anti-patterns Skill Badge
+✅  Monitoring MongoDB with Built-in Tools
+✅  Securing MongoDB Self-Managed: Authentication & Authorization
+✅  Securing MongoDB Self-Managed Networking
 
 ---
 
@@ -63,10 +63,13 @@ Je conçois des applications web performantes et élégantes, avec un fort accen
 --- -->
 
 ### 🧩 Projets phares
+
+Liste en construction...
+<!-- 
 - 🧾 [**Modusta**](https://github.com/xconix/modusta) – Générateur de CV intelligent avec design personnalisable  
 - 🏡 [**Orfevrus API**](https://github.com/xconix/orfevrus-api) – Backend .NET Core pour la gestion de copropriété  
 - 🐝 [**HiveConnect**](https://github.com/xconix/hiveconnect) – Ruche connectée avec Raspberry Pi et IoT
-
+ -->
 ---
 
  ### 📊 Statistiques GitHub

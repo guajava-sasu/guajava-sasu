@@ -37,6 +37,7 @@ Je conçois des applications web performantes et élégantes, avec un fort accen
 - 🌿  [MongoDB Associate Developper ](https://www.credly.com/badges/b53a75d0-605b-49f5-9b9a-8d654bde4cb6/public_url)  
 - 🪟  [Microsoft 70-480: Programming in HTML5 with JavaScript and CSS3](https://www.credly.com/badges/90f2c0d5-5796-4734-938a-4f602558a902/public_url)  
 - 🐍  [ [PCEP-30-02] PCEP™ – Certified Entry-Level Python Programmer ](https://verify.openedg.org/?id=8Cyn.kWxC.Y5eB)
+- 🪟 [Microsoft - AZ-900 Principes de base d’Azure](https://learn.microsoft.com/fr-fr/users/nicolasrano-0145/credentials/b092eeb514c6bb22?ref=https%3A%2F%2Fcv.guajava.site%2F)
 
 ---
 

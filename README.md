@@ -11,7 +11,7 @@ Je mets un fort accent sur le **clean code**, l’architecture et l’expérienc
 ## 🌐 Mes plateformes
 
 - 🌍 **Site vitrine :** https://guajava.site  
-- 💼 **Portfolio technique :** https://rano-nicolas-technical.guajava.site  
+- 💼 **Portfolio technique :** https://nicolas-rano-technical.guajava.site  
 - 🏡 **Projet phare (SaaS copropriété - Persequi) :** https://sdc-lebrun.guajava.site  
 
 ---

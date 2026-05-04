@@ -103,9 +103,15 @@ Présentation de mon activité freelance et de mes services.
 
 ## 📊 Statistiques GitHub
 
+![GitHub metrics](https://github-readme-stats.vercel.app/api?username=guajava-sasu&show_icons=true&theme=tokyonight&cache_seconds=30)
+
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=guajava-sasu&show_icons=true&theme=tokyonight)
 
 ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=guajava-sasu&layout=compact&theme=tokyonight)
+
+![GitHub metrics](https://streak-stats.demolab.com/?user=guajava-sasu)
+
+![GitHub metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guajava-sasu&theme=tokyonight)
 
 ---
 

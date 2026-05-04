@@ -88,7 +88,7 @@ Application complète de gestion de copropriété :
 ---
 
 ### 💼 Portfolio technique
-🔗 https://rano-nicolas-technical.guajava.site  
+🔗 https://nicolas-rano-technical.guajava.site  
 
 Présentation de mes projets, compétences et architecture logicielle.
 

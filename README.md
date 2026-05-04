@@ -1,86 +1,127 @@
-<!--
-## Hi there 👋
-**guajava-sasu/guajava-sasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 👋 Bonjour, je suis Nicolas RANO
 
-### 🧑‍💻 Ingénieur d’études & Développeur Fullstack Freelance, .NET | React | Vue 
+### 🧑‍💻 Ingénieur d’études & Développeur Fullstack Freelance  
+**.NET | React | Vue | Architecture Logicielle**
 
-Architecte logiciel, et Dévelopeur Fullstack habitué au code propre et l’innovation.  
-Je conçois des applications web performantes et élégantes, avec un fort accent sur la qualité du code et l’expérience utilisateur.
-
----
-
-### 🚀 Stack principale
-💻 **Langages :** C#, TypeScript, SQL, Java, Python  
-⚙️ **Frameworks :** .NET Core, React, Vue 3, Node.js  
-🗄️ **Base de données :** MongoDB, SQL Server, Oracle  
-☁️ **Cloud & DevOps :** Azure, Docker,  CI/CD  
-🔐 **Authentication :** Keycloak, EntraID, MongoDB AuthN/AuthZ
+Architecte logiciel et développeur fullstack avec 10 ans d’expérience, spécialisé dans la conception d’applications web robustes, performantes et maintenables.  
+Je mets un fort accent sur le **clean code**, l’architecture et l’expérience utilisateur.
 
 ---
 
-### 🏅 Certifications
-- 🌿 [MongoDB Associate Database Administrator](https://www.credly.com/badges/5aa679c1-1518-4356-a532-3ae97500b72d/public_url)  
-- 🌿  [MongoDB Certified Associate Data Modeler ](https://www.credly.com/badges/04e3d15c-479d-4974-83c7-66bd91d0fcc0/public_url)  
-- 🌿  [MongoDB Associate Developper ](https://www.credly.com/badges/b53a75d0-605b-49f5-9b9a-8d654bde4cb6/public_url)  
-- 🪟  [Microsoft 70-480: Programming in HTML5 with JavaScript and CSS3](https://www.credly.com/badges/90f2c0d5-5796-4734-938a-4f602558a902/public_url)  
-- 🐍  [ [PCEP-30-02] PCEP™ – Certified Entry-Level Python Programmer ](https://verify.openedg.org/?id=8Cyn.kWxC.Y5eB)
-- 🪟 [Microsoft - AZ-900 Principes de base d’Azure](https://learn.microsoft.com/fr-fr/users/nicolasrano-0145/credentials/b092eeb514c6bb22?ref=https%3A%2F%2Fcv.guajava.site%2F)
+## 🌐 Mes plateformes
+
+- 🌍 **Site vitrine :** https://guajava.site  
+- 💼 **Portfolio technique :** https://rano-nicolas-technical.guajava.site  
+- 🏡 **Projet phare (SaaS copropriété - Persequi) :** https://sdc-lebrun.guajava.site  
 
 ---
 
-### Skills 
-#### MongoDB  
-✅  From Relational Model (SQL) to MongoDB's Document Model  
-✅  CRUD Operations in MongoDB  
-✅  MongoDB Advanced Schema Design Patterns and Anti-patterns Skill  
-✅  MongoDB Aggregation Fundamentals  
-<!-- ✅  MongoDB Indexing Design Fundamentals   -->
-✅  MongoDB Overview: Core Concepts and Architecture  
-✅  MongoDB Schema Design Optimization Skill Badge  
-✅  MongoDB Schema Design Patterns and Anti-patterns Skill Badge  
-✅  Monitoring MongoDB with Built-in Tools  
-✅  Securing MongoDB Self-Managed: Authentication & Authorization  
-✅  Securing MongoDB Self-Managed Networking  
-✅ [MongoDB Indexing Design Fundamentals](https://www.credly.com/badges/5aa679c1-1518-4356-a532-3ae97500b72d/public_url)  
+## 🚀 Stack principale
+
+💻 **Langages :**  
+C#, TypeScript, SQL, Java, Python  
+
+⚙️ **Frameworks :**  
+.NET Core, React, Vue 3, Node.js  
+
+🗄️ **Base de données :**  
+MongoDB, SQL Server, Oracle  
+
+☁️ **Cloud & DevOps :**  
+Azure, Docker, CI/CD  
+
+🔐 **Authentification & Sécurité :**  
+Keycloak, Entra ID, JWT, MongoDB Auth  
 
 ---
 
-<!-- ###  📋 Skills
- 
-✅ [MongoDB Associate Database Administrator](https://www.credly.com/badges/5aa679c1-1518-4356-a532-3ae97500b72d/public_url)  
+## 🏅 Certifications
 
---- -->
+### 🎓 MongoDB
+- 🌿 MongoDB Associate Database Administrator  
+- 🌿 MongoDB Associate Developer  
+- 🌿 MongoDB Certified Associate Data Modeler  
 
-### 🧩 Projets phares
+### 🪟 Microsoft
+- 🪟 Microsoft 70-480: Programming in HTML5 with JavaScript and CSS3  
+- 🪟 AZ-900 – Microsoft Azure Fundamentals  
 
-Liste en construction...
-<!-- 
-- 🧾 [**Modusta**](https://github.com/xconix/modusta) – Générateur de CV intelligent avec design personnalisable  
-- 🏡 [**Orfevrus API**](https://github.com/xconix/orfevrus-api) – Backend .NET Core pour la gestion de copropriété  
-- 🐝 [**HiveConnect**](https://github.com/xconix/hiveconnect) – Ruche connectée avec Raspberry Pi et IoT
- -->
+### 🐍 Python
+- 🐍 PCEP™ – Certified Entry-Level Python Programmer  
+
 ---
 
- ### 📊 Statistiques GitHub
+## 🧠 MongoDB Skills (Credly)
+
+### 📦 Fondamentaux
+- ✅ MongoDB Overview: Core Concepts and Architecture  
+- ✅ CRUD Operations in MongoDB  
+- ✅ MongoDB Aggregation Fundamentals  
+- ✅ From Relational Model (SQL) to MongoDB's Document Model  
+
+### 🏗️ Data Modeling & Performance
+- ✅ MongoDB Schema Design Patterns and Anti-patterns  
+- ✅ MongoDB Advanced Schema Design Patterns  
+- ✅ MongoDB Schema Design Optimization  
+- ✅ MongoDB Indexing Design Fundamentals  
+- ✅ MongoDB Query Optimization Techniques  
+- ✅ Optimizing MongoDB Performance with Tuning Tools  
+
+### 🔐 Sécurité & Monitoring
+- ✅ Monitoring MongoDB with Built-in Tools  
+- ✅ Securing MongoDB Self-Managed: Authentication & Authorization  
+- ✅ Securing MongoDB Self-Managed Networking  
+
+---
+
+## 🧩 Projets phares
+
+### 🏡 Persequi – Gestion de copropriété (SaaS)
+🔗 https://sdc-lebrun.guajava.site  
+
+Application complète de gestion de copropriété :
+- Gestion des résidents et lots  
+- Suivi des charges et documents  
+- Architecture sécurisée avec authentification  
+- Stack : React + .NET Core + MongoDB  
+
+---
+
+### 💼 Portfolio technique
+🔗 https://rano-nicolas-technical.guajava.site  
+
+Présentation de mes projets, compétences et architecture logicielle.
+
+---
+
+### 🌍 Site vitrine Guajava
+🔗 https://guajava.site  
+
+Présentation de mon activité freelance et de mes services.
+
+---
+
+## 📊 Statistiques GitHub
+
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=guajava-sasu&show_icons=true&theme=tokyonight)
+
 ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=guajava-sasu&layout=compact&theme=tokyonight)
 
 ---
 
-### 🌐 Retrouvez-moi
+## 🤝 Me contacter
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolas%20RANO-blue?logo=linkedin)](https://www.linkedin.com/in/nicolas-rano-8a319038)
-[![Portfolio](https://img.shields.io/badge/Portfolio-https://guajava.site-orange?logo=javascript)](https://modusta.com)
-[![Mail](https://img.shields.io/badge/Email-guajavasas@gmail.com-green?logo=gmail)](mailto:guajavasas@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-guajava.site-orange?logo=google-chrome)](https://guajava.site)
+
+[![Email](https://img.shields.io/badge/Email-guajavasas@gmail.com-green?logo=gmail)](mailto:guajavasas@gmail.com)
+
+---
+
+## ⚡ À propos
+
+✔️ Freelance & entrepreneur (GUAJAVA SASU)  
+✔️ Spécialiste .NET / React / Architecture  
+✔️ Orienté performance, sécurité et scalabilité  
+✔️ Intérêt fort pour le cloud, l’IoT et les systèmes distribués  
